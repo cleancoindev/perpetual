@@ -49,7 +49,7 @@
   "homepage": "https://github.com/dydxprotocol/perpetual#readme",
   "dependencies": {
     "@openzeppelin/contracts": "2.5.0",
-    "@openzeppelin/upgrades": "2.6.0",
+    "@openzeppelin/upgrades": "2.8.0",
     "bignumber.js": "^8.1.1",
     "canonical-weth": "^1.4.0",
     "lodash": "^4.17.15",
